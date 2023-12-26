@@ -1,0 +1,26 @@
+.log{
+    display: flex;
+    gap: 30px;
+}
+
+
+
+.box{
+    height: 200px;
+    width: 20%;
+    background-color: rgb(150, 149, 149);
+    transform: translateY(-1000%);
+    transition: all 0.5s ease-in-out;
+}
+.in{
+    text-align: center;
+    
+}
+
+.bo{
+    height: 100px;
+    width: 20%;
+    background-color: red;
+    transform: translateY(-1000%);
+    transition: all 0.5s ease-in-out;   
+}
